@@ -15,7 +15,7 @@ Below is my quarter by quarter performance. Mostly, the hyperlinks will take you
 |[DSC 40A](https://dsc-courses.github.io/dsc40a-2021-fa/)|Theoretical Foundations of Data Science I|A+|
 |[DSC 95](https://sites.google.com/ucsd.edu/dsc-95-fall-2021)|Tutor Apprenticeship in Data Science|P|
 |[ECON 120B](https://catalog.ucsd.edu/courses/ECON.html)|Econometrics B|A+|
-|<img width=400/>|<img width=400/>|<img width=400/>|
+|<img width=200/>|<img width=800/>|<img width=200/>|
 
 ## Summer 2021
 
@@ -25,7 +25,7 @@ Below is my quarter by quarter performance. Mostly, the hyperlinks will take you
 | [MATH 142A](https://catalog.ucsd.edu/courses/MATH.html)   | 	Introduction to Analysis I       | A     |
 |[MATH 142B](https://catalog.ucsd.edu/courses/MATH.html)|Introduction to Analysis II|A+|
 |[PHIL 28](https://catalog.ucsd.edu/courses/PHIL.html)|Ethics And Society II|P|
-|<img width=400/>|<img width=400/>|<img width=400/>|
+|<img width=200/>|<img width=800/>|<img width=200/>|
 
 ## Spring 2021
 
@@ -37,4 +37,4 @@ Below is my quarter by quarter performance. Mostly, the hyperlinks will take you
 |[MATH 102](http://www.math.ucsd.edu/~jeggers/Archive/2021Spring/Math102/index.html)|Ethics And Society II|P|
 |[MUS 95G](https://catalog.ucsd.edu/courses/MUS.html)|Ethics And Society II|P|
 |[PHIL 27](https://catalog.ucsd.edu/courses/PHIL.html)|Ethics And Society II|P|
-|<img width=400/>|<img width=400/>|<img width=400/>|
+|<img width=200/>|<img width=800/>|<img width=200/>|
