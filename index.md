@@ -19,6 +19,8 @@ Wanna chat? Feel free to reach out!
 
 ## 📠 Fun facts
 
-- I eat
-- I drink
-- I sleep
+- 唱
+- 跳
+- rap
+- 🏀
+- music
