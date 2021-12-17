@@ -13,7 +13,9 @@ Sleeping and eating
 
 Wanna chat? Feel free to reach out!
 
-- [email](wel019@ucsd.edu)
+- Email: wel019@ucsd.edu
+- WeChat: GSWSCurry
+- LinkedIn: [link](https://www.linkedin.com/in/weiyue-li-40487a1aa)
 
 ## 📠 Fun facts
 
