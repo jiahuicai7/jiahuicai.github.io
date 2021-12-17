@@ -1,7 +1,7 @@
 ---
 ---
 
-## 🤷 About Me
+## 💯 About Me
 
 I'm a second year student at [University of California San Diego](https://ucsd.edu/), double majoring in [Joint Major of Economics and Mathematics (EN28)](https://economics.ucsd.edu/undergraduate-program/major-minor-requirements/joint-econ-math-major-ba.html) under the [Department of Economics](https://economics.ucsd.edu/) and [Data Science (DS25)](https://datascience.ucsd.edu/academics/undergraduate/major-requirements/) under the [Halıcıoğlu Data Science Institute at UC San Diego](https://datascience.ucsd.edu/).
 
