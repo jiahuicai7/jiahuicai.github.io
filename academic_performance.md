@@ -15,6 +15,7 @@ Below is my quarter by quarter performance. Mostly, the hyperlinks will take you
 |[DSC 40A](https://dsc-courses.github.io/dsc40a-2021-fa/)|Theoretical Foundations of Data Science I|A+|
 |[DSC 95](https://sites.google.com/ucsd.edu/dsc-95-fall-2021)|Tutor Apprenticeship in Data Science|P|
 |[ECON 120B](https://catalog.ucsd.edu/courses/ECON.html)|Econometrics B|A+|
+|<img width=200/>|<img width=200/>|<img width=200/>|
 
 ## Summer 2021
 
