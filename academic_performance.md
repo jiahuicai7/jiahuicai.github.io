@@ -2,7 +2,7 @@
 title: 💯 Academic and Coursework Performance
 ---
 
-##Overall GPA: 4.0/4.0 📈; Major GPA: 4.0/4.0 📈
+## Overall GPA: 4.0/4.0 📈; Major GPA: 4.0/4.0 📈
 
 Below is my quarter by quarter performance. Mostly, the hyperlinks will take you to the course website. If the course doesn't have a public website, the hyperlink will take you to the catalog for course descriptions.
 
