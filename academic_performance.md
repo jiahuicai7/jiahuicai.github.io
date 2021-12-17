@@ -1,6 +1,8 @@
-## 💯 Academic and Coursework Performance
+---
+💯 Academic and Coursework Performance
+---
 
-### Fall 2021
+## Fall 2021
 
 - DSC30
 - DSC40A
