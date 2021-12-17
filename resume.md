@@ -1,5 +1,5 @@
 ---
-title: Blog
+title: Resume
 ---
 
 {% for post in site.posts %}
