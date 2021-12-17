@@ -25,4 +25,4 @@ Below is my quarter by quarter performance. Mostly, the hyperlinks will take you
 | [MATH 142A](https://catalog.ucsd.edu/courses/MATH.html)   | 	Introduction to Analysis I       | A     |
 |[MATH 142B](https://catalog.ucsd.edu/courses/MATH.html)|Introduction to Analysis II|A+|
 |[PHIL 28](https://catalog.ucsd.edu/courses/PHIL.html)|Ethics And Society II|P|
-|<img width=200/>|<img width=200/>|<img width=200/>|
+|<img width=400/>|<img width=400/>|<img width=400/>|
