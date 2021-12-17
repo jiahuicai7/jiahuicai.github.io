@@ -24,7 +24,7 @@ nav-links:
 # for the homepage image + big text next to it
 greeting_image: https://weiyueli7.github.io/weiyueli.github.io/assets/me.png
 # 100-200 characters recommended
-greeting_text: Hello, my name is Weiyue Li, and I am a student at UC San Diego.
+greeting_text: Hello, my name is Weiyue Li, and welcome to my personal website!
 
 # show blog post excerpts on blog page
 show_excerpts: false
