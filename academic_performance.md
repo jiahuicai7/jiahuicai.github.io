@@ -9,8 +9,18 @@ Major GPA: 4.0/4.0 📈
 
 | Course Number      | Course Name | Grade     |
 | :----:        |    :----:   |          :----: |
-| [COGS 108](https://catalog.ucsd.edu/courses/COGS.html)      | Data Science in Practice      | A+   |
-| [DSC 30](https://catalog.ucsd.edu/courses/DSC.html)   | Data Structures and Algorithms for Data Science        | A     |
-|[DSC 40A](https://catalog.ucsd.edu/courses/DSC.html)|Theoretical Foundations of Data Science I|A+|
-|[DSC 95](https://catalog.ucsd.edu/courses/DSC.html)|Tutor Apprenticeship in Data Science|P|
+| [COGS 108](https://github.com/COGS108)      | Data Science in Practice      | A+   |
+| [DSC 30](https://sites.google.com/ucsd.edu/dsc30fall21/)   | Data Structures and Algorithms for Data Science        | A     |
+|[DSC 40A](https://dsc-courses.github.io/dsc40a-2021-fa/)|Theoretical Foundations of Data Science I|A+|
+|[DSC 95](https://sites.google.com/ucsd.edu/dsc-95-fall-2021)|Tutor Apprenticeship in Data Science|P|
 |[ECON 120B](https://catalog.ucsd.edu/courses/ECON.html)|Econometrics B|A+|
+
+## Summer 2021
+
+| Course Number      | Course Name | Grade     |
+| :----:        |    :----:   |          :----: |
+| [ECON 100A](https://catalog.ucsd.edu/courses/ECON.html)      | Microeconomics A     | A+   |
+| [MATH 142A](https://catalog.ucsd.edu/courses/MATH.html)   | 	Introduction to Analysis I       | A     |
+|[MATH 142B](https://catalog.ucsd.edu/courses/MATH.html)|Introduction to Analysis II|A+|
+|[PHIL 28](https://catalog.ucsd.edu/courses/PHIL.html)|Ethics And Society II|P|
+
