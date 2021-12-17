@@ -21,8 +21,8 @@ Below is my quarter by quarter performance. Mostly, the hyperlinks will take you
 
 | Course Number      | Course Name | Grade     |
 | :----:        |    :----:   |          :----: |
-| [ECON 100A](https://catalog.ucsd.edu/courses/ECON.html)      | Microeconomics A     | A+   |
-| [MATH 142A](https://catalog.ucsd.edu/courses/MATH.html)   | 	Introduction to Analysis I       | A     |
+| [ECON 100A](https://catalog.ucsd.edu/courses/ECON.html)      | Microeconomics A     | A   |
+| [MATH 142A](https://catalog.ucsd.edu/courses/MATH.html)   | 	Introduction to Analysis I       | A+     |
 |[MATH 142B](https://catalog.ucsd.edu/courses/MATH.html)|Introduction to Analysis II|A+|
 |[PHIL 28](https://catalog.ucsd.edu/courses/PHIL.html)|Ethics And Society II|P|
 |<img width=200/>|<img width=800/>|<img width=200/>|
@@ -34,7 +34,7 @@ Below is my quarter by quarter performance. Mostly, the hyperlinks will take you
 | [DSC 20](https://sites.google.com/ucsd.edu/dsc20spring2021/)      | Microeconomics A     | A+   |
 | [JAPN 10C](https://catalog.ucsd.edu/courses/JAPN.html)   | 	Introduction to Analysis I       | A     |
 |[LIGN 8](https://catalog.ucsd.edu/courses/LING.html)|Introduction to Analysis II|A+|
-|[MATH 102](http://www.math.ucsd.edu/~jeggers/Archive/2021Spring/Math102/index.html)|Ethics And Society II|P|
+|[MATH 102](http://www.math.ucsd.edu/~jeggers/Archive/2021Spring/Math102/index.html)|Ethics And Society II|A+|
 |[MUS 95G](https://catalog.ucsd.edu/courses/MUS.html)|Ethics And Society II|P|
 |[PHIL 27](https://catalog.ucsd.edu/courses/PHIL.html)|Ethics And Society II|P|
 |<img width=200/>|<img width=800/>|<img width=200/>|
