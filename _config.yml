@@ -15,10 +15,10 @@ description: Student at University of California San Diego
 # for internal, make sure to include preceding slash
 nav-links:
   - name: Home
-    url: /
+    url: 
     external: false
   - name: Resume
-    url: /blog
+    url: /resume
     external: false
 
 # for the homepage image + big text next to it
