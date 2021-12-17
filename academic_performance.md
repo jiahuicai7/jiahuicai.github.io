@@ -9,8 +9,8 @@ Major GPA: 4.0/4.0 📈
 
 | Course Number      | Course Name | Grade     |
 | :----:        |    :----:   |          :----: |
-| COGS 108      | Data Science in Practice      | A+   |
-| DSC 30   | Data Structures and Algorithms for Data Science        | A     |
-|DSC 40A|Theoretical Foundations of Data Science I|A+|
-|DSC 95|Tutor Apprenticeship in Data Science|P|
-|ECON 120B|Econometrics B|A+|
+| [COGS 108](https://catalog.ucsd.edu/courses/COGS.html)      | Data Science in Practice      | A+   |
+| [DSC 30](https://catalog.ucsd.edu/courses/DSC.html)   | Data Structures and Algorithms for Data Science        | A     |
+|[DSC 40A](https://catalog.ucsd.edu/courses/DSC.html)|Theoretical Foundations of Data Science I|A+|
+|[DSC 95](https://catalog.ucsd.edu/courses/DSC.html)|Tutor Apprenticeship in Data Science|P|
+|[ECON 120B](https://catalog.ucsd.edu/courses/ECON.html)|Econometrics B|A+|
