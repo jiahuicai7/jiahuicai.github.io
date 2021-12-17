@@ -26,3 +26,15 @@ Below is my quarter by quarter performance. Mostly, the hyperlinks will take you
 |[MATH 142B](https://catalog.ucsd.edu/courses/MATH.html)|Introduction to Analysis II|A+|
 |[PHIL 28](https://catalog.ucsd.edu/courses/PHIL.html)|Ethics And Society II|P|
 |<img width=400/>|<img width=400/>|<img width=400/>|
+
+## Spring 2021
+
+| Course Number      | Course Name | Grade     |
+| :----:        |    :----:   |          :----: |
+| [DSC 20](https://sites.google.com/ucsd.edu/dsc20spring2021/)      | Microeconomics A     | A+   |
+| [JAPN 10C](https://catalog.ucsd.edu/courses/JAPN.html)   | 	Introduction to Analysis I       | A     |
+|[LIGN 8](https://catalog.ucsd.edu/courses/LING.html)|Introduction to Analysis II|A+|
+|[MATH 102](http://www.math.ucsd.edu/~jeggers/Archive/2021Spring/Math102/index.html)|Ethics And Society II|P|
+|[MUS 95G](https://catalog.ucsd.edu/courses/MUS.html)|Ethics And Society II|P|
+|[PHIL 27](https://catalog.ucsd.edu/courses/PHIL.html)|Ethics And Society II|P|
+|<img width=400/>|<img width=400/>|<img width=400/>|
