@@ -32,10 +32,10 @@ Below is my quarter by quarter performance. Mostly, the hyperlinks will take you
 | Course Number      | Course Name | Grade     |
 | :----:        |    :----:   |          :----: |
 | [DSC 20](https://sites.google.com/ucsd.edu/dsc20spring2021/)      | Programming and Basic Data Structures for Data Science    | A+   |
-| [JAPN 10C](https://catalog.ucsd.edu/courses/JAPN.html)   | 	First-Year Japanese      | A     |
+| [JAPN 10C](https://catalog.ucsd.edu/courses/JAPN.html)   | 	First-Year Japanese III      | A     |
 |[LIGN 8](https://catalog.ucsd.edu/courses/LING.html)| Languages and Cultures in America|A+|
 |[MATH 102](http://www.math.ucsd.edu/~jeggers/Archive/2021Spring/Math102/index.html)|Applied Linear Algebra|A+|
-|[MUS 95G](https://catalog.ucsd.edu/courses/MUS.html)|Ensemble Performance|P|
+|[MUS 95G](https://catalog.ucsd.edu/courses/MUS.html)|Gospel Choir|P|
 |[PHIL 27](https://catalog.ucsd.edu/courses/PHIL.html)|Ethics And Society I|P|
 |<img width=200/>|<img width=800/>|<img width=200/>|
 
@@ -45,8 +45,30 @@ Below is my quarter by quarter performance. Mostly, the hyperlinks will take you
 | :----:        |    :----:   |          :----: |
 | [COGS 13](https://catalog.ucsd.edu/courses/COGS.html)      | 	Field Methods: Cognition in Wild     | P   |
 | [DSC 10](https://dsc10.com/)   | 	Principles of Data Science       | A+     |
-|[JAPN 10B](https://catalog.ucsd.edu/courses/JAPN.html)|First-Year Japanese|A|
+|[JAPN 10B](https://catalog.ucsd.edu/courses/JAPN.html)|First-Year Japanese II|A|
 |[MATH 109](https://catalog.ucsd.edu/courses/MATH.html)|Mathematical Reasoning|A+|
 |[MATH 183](https://catalog.ucsd.edu/courses/MATH.html)|Statistical Methods|A+|
 |[WCWP 10B](https://warren.ucsd.edu/warren-writing/wcwp-10b.html)|The Writing Course B|P|
+|<img width=200/>|<img width=800/>|<img width=200/>|
+
+## Fall 2020
+
+| Course Number      | Course Name | Grade     |
+| :----:        |    :----:   |          :----: |
+| [COGS 9](https://catalog.ucsd.edu/courses/COGS.html)      | 	Introduction to Data Science     | A   |
+| [ECON 3](https://catalog.ucsd.edu/courses/ECON.html)   | 	Principles of Macroeconomics       | A     |
+|[JAPN 10A](https://catalog.ucsd.edu/courses/JAPN.html)|First-Year Japanese I|A+|
+|[MATH 20D](https://www.math.ucsd.edu/~yuz018/2020fall/20da00.html)|Introduction to Differential Equations|A+|
+|[MUS 95G](https://catalog.ucsd.edu/courses/MUS.html)|Gospel Choir|P|
+|[WCWP 10A](https://warren.ucsd.edu/warren-writing/wcwp-10a.html)|The Writing Course A|A|
+|<img width=200/>|<img width=800/>|<img width=200/>|
+
+## Summer 2020
+
+| Course Number      | Course Name | Grade     |
+| :----:        |    :----:   |          :----: |
+| [ECON 1](https://catalog.ucsd.edu/courses/ECON.html)      | Principles of Microeconomics     | A+   |
+| [MATH 18](https://sites.google.com/ucsd.edu/18s120/)   | 	Linear Algebra       | A    |
+|[MATH 20C](https://catalog.ucsd.edu/courses/MATH.html)|Calculus and Analytic Geometry for Science and Engineering|A+|
+|[PSYC 4](https://catalog.ucsd.edu/courses/PSYC.html)|General Psychology: Behavioral|A+|
 |<img width=200/>|<img width=800/>|<img width=200/>|
