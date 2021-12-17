@@ -2,6 +2,9 @@
 title: 💯 Academic and Coursework Performance
 ---
 
+Overall GPA: 4.0/4.0 📈
+Major GPA: 4.0/4.0 📈
+
 ## Fall 2021
 
 | Course Number      | Course Name | Grade     |
