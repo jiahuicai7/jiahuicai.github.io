@@ -1,5 +1,5 @@
 ---
-💯 Academic and Coursework Performance
+title: 💯 Academic and Coursework Performance
 ---
 
 ## Fall 2021
